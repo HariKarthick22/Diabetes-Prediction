@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction App (Built with AI)
+🩺 Diabetes Prediction App 
 
 This is a simple AI-powered web app that tells you if someone is likely to have diabetes based on basic health info.
 
