@@ -1,10 +1,6 @@
 🩺 Diabetes Prediction App 
 
-This is a simple AI-powered web app that tells you if someone is likely to have diabetes based on basic health info.
-
-It uses a smart combo of:
-	•	🧠 CNN (Deep Learning) to understand patterns
-	•	🌲 Random Forest (Machine Learning) to make the final decision
+This is a simple AI-powered web app that tells you if someone is likely to have diabetes based on basic health info
 
 ⸻
 
